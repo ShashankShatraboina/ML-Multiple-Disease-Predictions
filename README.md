@@ -1,7 +1,3 @@
-Here’s a polished and rewritten version of your README that makes it cleaner, more concise, and professional:
-
----
-
 # Multiple Disease Prediction System (WebApp)
 
 This repository hosts a **Multiple Disease Prediction Web Application** built with **Streamlit** and deployed on **Streamlit Cloud**. The app integrates four machine learning–based disease prediction systems to provide accurate and reliable predictions.
@@ -183,7 +179,3 @@ Contributions are welcome!
 
 For questions or suggestions, reach out at:
 📧 **[shashankshatraboina@gmail.com](mailto:shashankshatraboina@gmail.com)**
-
----
-
-Would you like me to also make a **shorter, professional GitHub description (2–3 lines)** that you can paste directly under the repository title?
