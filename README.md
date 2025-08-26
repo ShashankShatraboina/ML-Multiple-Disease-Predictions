@@ -163,6 +163,7 @@ This **Multiple Disease Prediction WebApp** offers a user-friendly interface and
 
 The app is deployed on **Streamlit Cloud** and can be accessed online.
 
+https://ml-multiple-diseases-predictions-shashank.streamlit.app/
 ---
 
 ## 🤝 Contributing
